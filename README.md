@@ -1,5 +1,5 @@
 <h1 align="center"> API para una Tienda </h1>
-Esta es una API hecha con la finalidad de facilitar el trabajo de una persona que administra una tienda (bazar), en la cual puede crear, modificar, y obtener datos de sus ventas, clientes y productos. Todo esto con el lenguaje de programacion Java, implementando una API REST usando el FrameWork Spring Boot. Como proveedor de ORM se utilizó JPA + Hibernate. Para realizar las pruebas de la API se utilizó Postman. Y todos los objetos fueron almacenados en una base de datos MySQL con la herramienta de PhpMyAdmin.
+Esta es una API hecha con la finalidad de facilitar el trabajo de una persona que administra una tienda (bazar), en la cual puede crear, modificar, y obtener datos de sus ventas, clientes y productos. Todo esto con el lenguaje de programación Java, implementando una API REST usando el FrameWork Spring Boot. Como proveedor de ORM se utilizó JPA + Hibernate. Para realizar las pruebas de la API se utilizó Postman. Y todos los objetos fueron almacenados en una base de datos MySQL con la herramienta de PhpMyAdmin.
 
 ## Modelado
 A partir de las necesidades basicas de una tienda, las clases que se crearon fueron las siguinetes:
